@@ -7,7 +7,7 @@ import json
 st.title("Weather and Air Quality Web App")
 st.header("Streamlit and AirVisual API")
 
-api_key = "04c24a56-e2b3-40f5-b07d-80c2eb64ca6b"
+api_key = "your api key"
 
 
 @st.cache_data
